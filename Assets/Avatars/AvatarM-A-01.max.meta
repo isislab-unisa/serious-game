@@ -1,0 +1,1193 @@
+fileFormatVersion: 2
+guid: e77c7030f3e50fc4ca5a4fa99f1b60b2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Carl:Head
+    100004: Carl:HeadTop_End
+    100006: Carl:Hips
+    100008: Carl:Jaw
+    100010: Carl:JawEND
+    100012: Carl:LeftArm
+    100014: Carl:LeftCheek
+    100016: Carl:LeftEye
+    100018: Carl:LeftEyelidLower
+    100020: Carl:LeftEyelidUpper
+    100022: Carl:LeftFoot
+    100024: Carl:LeftFootToeBase_End
+    100026: Carl:LeftForeArm
+    100028: Carl:LeftHand
+    100030: Carl:LeftHandIndex1
+    100032: Carl:LeftHandIndex2
+    100034: Carl:LeftHandIndex3
+    100036: Carl:LeftHandIndex4
+    100038: Carl:LeftHandMiddle1
+    100040: Carl:LeftHandMiddle2
+    100042: Carl:LeftHandMiddle3
+    100044: Carl:LeftHandMiddle4
+    100046: Carl:LeftHandPinky1
+    100048: Carl:LeftHandPinky2
+    100050: Carl:LeftHandPinky3
+    100052: Carl:LeftHandPinky4
+    100054: Carl:LeftHandRing1
+    100056: Carl:LeftHandRing2
+    100058: Carl:LeftHandRing3
+    100060: Carl:LeftHandRing4
+    100062: Carl:LeftHandThumb1
+    100064: Carl:LeftHandThumb2
+    100066: Carl:LeftHandThumb3
+    100068: Carl:LeftHandThumb4
+    100070: Carl:LeftInnerBrow
+    100072: Carl:LeftIOuterBrow
+    100074: Carl:LeftLeg
+    100076: Carl:LeftLipCorner
+    100078: Carl:LeftLipLower
+    100080: Carl:LeftLipUpper
+    100082: Carl:LeftNostril
+    100084: Carl:LeftShoulder
+    100086: Carl:LeftToeBase
+    100088: Carl:LeftUpLeg
+    100090: Carl:Neck
+    100092: Carl:Neck1
+    100094: Carl:RightArm
+    100096: Carl:RightCheek
+    100098: Carl:RightEye
+    100100: Carl:RightEyelidLower
+    100102: Carl:RightEyelidUpper
+    100104: Carl:RightFoot
+    100106: Carl:RightFootToeBase_End
+    100108: Carl:RightForeArm
+    100110: Carl:RightHand
+    100112: Carl:RightHandIndex1
+    100114: Carl:RightHandIndex2
+    100116: Carl:RightHandIndex3
+    100118: Carl:RightHandIndex4
+    100120: Carl:RightHandMiddle1
+    100122: Carl:RightHandMiddle2
+    100124: Carl:RightHandMiddle3
+    100126: Carl:RightHandMiddle4
+    100128: Carl:RightHandPinky1
+    100130: Carl:RightHandPinky2
+    100132: Carl:RightHandPinky3
+    100134: Carl:RightHandPinky4
+    100136: Carl:RightHandRing1
+    100138: Carl:RightHandRing2
+    100140: Carl:RightHandRing3
+    100142: Carl:RightHandRing4
+    100144: Carl:RightHandThumb1
+    100146: Carl:RightHandThumb2
+    100148: Carl:RightHandThumb3
+    100150: Carl:RightHandThumb4
+    100152: Carl:RightInnerBrow
+    100154: Carl:RightIOuterBrow
+    100156: Carl:RightLeg
+    100158: Carl:RightLipCorner
+    100160: Carl:RightLipLower
+    100162: Carl:RightLipUpper
+    100164: Carl:RightNostril
+    100166: Carl:RightShoulder
+    100168: Carl:RightToeBase
+    100170: Carl:RightUpLeg
+    100172: Carl:Spine
+    100174: Carl:Spine1
+    100176: Carl:Spine2
+    100178: Carl:TongueBack
+    100180: Carl:TongueTip
+    100182: eyes
+    100184: HandsGeo
+    100186: HeadGeo
+    100188: PantsGeo
+    100190: ShirtGeo
+    100192: ShoesGeo
+    100194: TeethGeo
+    400000: //RootNode
+    400002: Carl:Head
+    400004: Carl:HeadTop_End
+    400006: Carl:Hips
+    400008: Carl:Jaw
+    400010: Carl:JawEND
+    400012: Carl:LeftArm
+    400014: Carl:LeftCheek
+    400016: Carl:LeftEye
+    400018: Carl:LeftEyelidLower
+    400020: Carl:LeftEyelidUpper
+    400022: Carl:LeftFoot
+    400024: Carl:LeftFootToeBase_End
+    400026: Carl:LeftForeArm
+    400028: Carl:LeftHand
+    400030: Carl:LeftHandIndex1
+    400032: Carl:LeftHandIndex2
+    400034: Carl:LeftHandIndex3
+    400036: Carl:LeftHandIndex4
+    400038: Carl:LeftHandMiddle1
+    400040: Carl:LeftHandMiddle2
+    400042: Carl:LeftHandMiddle3
+    400044: Carl:LeftHandMiddle4
+    400046: Carl:LeftHandPinky1
+    400048: Carl:LeftHandPinky2
+    400050: Carl:LeftHandPinky3
+    400052: Carl:LeftHandPinky4
+    400054: Carl:LeftHandRing1
+    400056: Carl:LeftHandRing2
+    400058: Carl:LeftHandRing3
+    400060: Carl:LeftHandRing4
+    400062: Carl:LeftHandThumb1
+    400064: Carl:LeftHandThumb2
+    400066: Carl:LeftHandThumb3
+    400068: Carl:LeftHandThumb4
+    400070: Carl:LeftInnerBrow
+    400072: Carl:LeftIOuterBrow
+    400074: Carl:LeftLeg
+    400076: Carl:LeftLipCorner
+    400078: Carl:LeftLipLower
+    400080: Carl:LeftLipUpper
+    400082: Carl:LeftNostril
+    400084: Carl:LeftShoulder
+    400086: Carl:LeftToeBase
+    400088: Carl:LeftUpLeg
+    400090: Carl:Neck
+    400092: Carl:Neck1
+    400094: Carl:RightArm
+    400096: Carl:RightCheek
+    400098: Carl:RightEye
+    400100: Carl:RightEyelidLower
+    400102: Carl:RightEyelidUpper
+    400104: Carl:RightFoot
+    400106: Carl:RightFootToeBase_End
+    400108: Carl:RightForeArm
+    400110: Carl:RightHand
+    400112: Carl:RightHandIndex1
+    400114: Carl:RightHandIndex2
+    400116: Carl:RightHandIndex3
+    400118: Carl:RightHandIndex4
+    400120: Carl:RightHandMiddle1
+    400122: Carl:RightHandMiddle2
+    400124: Carl:RightHandMiddle3
+    400126: Carl:RightHandMiddle4
+    400128: Carl:RightHandPinky1
+    400130: Carl:RightHandPinky2
+    400132: Carl:RightHandPinky3
+    400134: Carl:RightHandPinky4
+    400136: Carl:RightHandRing1
+    400138: Carl:RightHandRing2
+    400140: Carl:RightHandRing3
+    400142: Carl:RightHandRing4
+    400144: Carl:RightHandThumb1
+    400146: Carl:RightHandThumb2
+    400148: Carl:RightHandThumb3
+    400150: Carl:RightHandThumb4
+    400152: Carl:RightInnerBrow
+    400154: Carl:RightIOuterBrow
+    400156: Carl:RightLeg
+    400158: Carl:RightLipCorner
+    400160: Carl:RightLipLower
+    400162: Carl:RightLipUpper
+    400164: Carl:RightNostril
+    400166: Carl:RightShoulder
+    400168: Carl:RightToeBase
+    400170: Carl:RightUpLeg
+    400172: Carl:Spine
+    400174: Carl:Spine1
+    400176: Carl:Spine2
+    400178: Carl:TongueBack
+    400180: Carl:TongueTip
+    400182: eyes
+    400184: HandsGeo
+    400186: HeadGeo
+    400188: PantsGeo
+    400190: ShirtGeo
+    400192: ShoesGeo
+    400194: TeethGeo
+    4300000: eyes
+    4300002: TeethGeo
+    4300004: ShirtGeo
+    4300006: HeadGeo
+    4300008: ShoesGeo
+    4300010: PantsGeo
+    4300012: HandsGeo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: eyes
+    13700002: HandsGeo
+    13700004: HeadGeo
+    13700006: PantsGeo
+    13700008: ShirtGeo
+    13700010: ShoesGeo
+    13700012: TeethGeo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Carl:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftEye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightEye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Carl:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: AvatarM-A-01(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: eyes
+      position: {x: 1.35183336e-06, y: 1.65716898, z: .114426516}
+      rotation: {x: 2.18556941e-08, y: 0, z: 0, w: 1}
+      scale: {x: .00999999978, y: .00999999978, z: .00999999978}
+      transformModified: 1
+    - name: HandsGeo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 2.18556941e-08, y: 0, z: 0, w: 1}
+      scale: {x: .00999999978, y: .00999999978, z: .00999999978}
+      transformModified: 1
+    - name: HeadGeo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 2.18556941e-08, y: 0, z: 0, w: 1}
+      scale: {x: .00999999978, y: .00999999978, z: .00999999978}
+      transformModified: 1
+    - name: PantsGeo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 2.18556941e-08, y: 0, z: 0, w: 1}
+      scale: {x: .00999999978, y: .00999999978, z: .00999999978}
+      transformModified: 1
+    - name: ShirtGeo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 2.18556941e-08, y: 0, z: 0, w: 1}
+      scale: {x: .00999999978, y: .00999999978, z: .00999999978}
+      transformModified: 1
+    - name: ShoesGeo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 2.18556941e-08, y: 0, z: 0, w: 1}
+      scale: {x: .00999999978, y: .00999999978, z: .00999999978}
+      transformModified: 1
+    - name: TeethGeo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 2.18556941e-08, y: 0, z: 0, w: 1}
+      scale: {x: .00999999978, y: .00999999978, z: .00999999978}
+      transformModified: 1
+    - name: Carl:Hips
+      position: {x: -.000226300501, y: .991796911, z: .00010537848}
+      rotation: {x: 2.18556941e-08, y: 0, z: 0, w: 1}
+      scale: {x: .0100000026, y: .00999999885, z: .0100000026}
+      transformModified: 1
+    - name: Carl:RightUpLeg
+      position: {x: 9.63378525, y: -3.27325439, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .99999994, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Carl:RightLeg
+      position: {x: -0, y: -41.7299881, z: -1.72996473}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightFoot
+      position: {x: -.0126066208, y: -39.1899986, z: -.847685814}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .99999994, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Carl:RightToeBase
+      position: {x: .183309555, y: -12.1930895, z: 8.28226757}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1.00000024}
+      transformModified: 1
+    - name: Carl:RightFootToeBase_End
+      position: {x: -.00319480896, y: -5.96046448e-07, z: 11.0324221}
+      rotation: {x: -3.49315105e-18, y: -2.7434e-08, z: -1.27329272e-10, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Carl:LeftUpLeg
+      position: {x: -9.63378811, y: -3.27324677, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: Carl:LeftLeg
+      position: {x: -9.53674316e-07, y: -41.7299881, z: -1.72996521}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Carl:LeftFoot
+      position: {x: -.0126056671, y: -39.1900024, z: -.847686768}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000036, z: 1.00000036}
+      transformModified: 1
+    - name: Carl:LeftToeBase
+      position: {x: .183289528, y: -12.1930828, z: 8.28226185}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Carl:LeftFootToeBase_End
+      position: {x: -0, y: -2.38418579e-07, z: 11.0324211}
+      rotation: {x: -3.7252903e-09, y: -7.78527465e-09, z: 4.6566126e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:Spine
+      position: {x: -4.76837158e-07, y: 9.22632599, z: 1.57713318}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999821, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Carl:Spine1
+      position: {x: -0, y: 16.2540054, z: -.165605426}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:Spine2
+      position: {x: 4.76837158e-07, y: 13.6396484, z: -1.29230499}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999881, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: Carl:RightShoulder
+      position: {x: 6.14019775, y: 10.1870117, z: -3.79324293}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightArm
+      position: {x: 12.3231201, y: -1.11300659, z: -1.79345703}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:RightForeArm
+      position: {x: 27.6869812, y: 3.81469727e-06, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightHand
+      position: {x: 27.8737793, y: 0, z: 1.90734863e-06}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999881, y: 1, z: .999999821}
+      transformModified: 1
+    - name: Carl:RightHandThumb1
+      position: {x: 2.51774597, y: -.936668396, z: 2.51366901}
+      rotation: {x: -.0438645408, y: -.019023126, z: .0412847102, w: .998002827}
+      scale: {x: 1, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Carl:RightHandThumb2
+      position: {x: 3.26377869, y: -1.08696556, z: 2.96687698}
+      rotation: {x: -.0281509571, y: -.0989905074, z: -.00529877143, w: .994675994}
+      scale: {x: 1.00000012, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: Carl:RightHandThumb3
+      position: {x: 4.41652679, y: -1.37026215, z: 2.13502502}
+      rotation: {x: .0404373594, y: .0070666098, z: -.079113856, w: .996020019}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightHandThumb4
+      position: {x: 2.29999542, y: -.0520324707, z: 1.17094231}
+      rotation: {x: 1.49011612e-08, y: -1.11022302e-16, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:RightHandMiddle1
+      position: {x: 10.7595825, y: .489580154, z: .427799225}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Carl:RightHandMiddle2
+      position: {x: 5.61677551, y: -1.90734863e-06, z: -4.76837158e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Carl:RightHandMiddle3
+      position: {x: 3.73635864, y: 1.90734863e-06, z: 1.90734863e-06}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .99999994, z: .999999821}
+      transformModified: 1
+    - name: Carl:RightHandMiddle4
+      position: {x: 1.90000153, y: 0, z: 0}
+      rotation: {x: -1.86264515e-09, y: -2.23517418e-08, z: -4.16333634e-17, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Carl:RightHandIndex1
+      position: {x: 10.4664841, y: .489578247, z: 2.71196365}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightHandIndex2
+      position: {x: 5.37675476, y: 9.53674316e-07, z: 9.53674316e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: Carl:RightHandIndex3
+      position: {x: 3.3854599, y: 5.7220459e-06, z: 1.43051147e-06}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightHandIndex4
+      position: {x: 1.80000305, y: 5.7220459e-06, z: -1.43051147e-06}
+      rotation: {x: -1.86264559e-09, y: 0, z: -0, w: 1}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Carl:RightHandPinky1
+      position: {x: 9.97144318, y: -.119142532, z: -3.95400333}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:RightHandPinky2
+      position: {x: 3.65276337, y: 5.7220459e-06, z: -1.90734863e-06}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightHandPinky3
+      position: {x: 2.7820282, y: 3.81469727e-06, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightHandPinky4
+      position: {x: 2.5, y: 0, z: -2.86102295e-06}
+      rotation: {x: 9.31322575e-09, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:RightHandRing1
+      position: {x: 10.4701996, y: .387870789, z: -1.93628025}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightHandRing2
+      position: {x: 5.40127563, y: 0, z: -1.90734863e-06}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: Carl:RightHandRing3
+      position: {x: 3.39159775, y: 1.90734863e-06, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: Carl:RightHandRing4
+      position: {x: 1.60000229, y: 0, z: 0}
+      rotation: {x: -5.58793545e-09, y: -9.31322575e-09, z: -1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Carl:LeftShoulder
+      position: {x: -6.14422607, y: 10.1870117, z: -3.79324389}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Carl:LeftArm
+      position: {x: -12.3190899, y: -1.11299133, z: -1.79345608}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999702, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Carl:LeftForeArm
+      position: {x: -27.6869812, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Carl:LeftHand
+      position: {x: -27.8737717, y: -5.7220459e-06, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000024, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:LeftHandThumb1
+      position: {x: -2.37850189, y: -1.00289917, z: 2.62093711}
+      rotation: {x: -.0434397534, y: .0281329006, z: -.0414984562, w: .99779731}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandThumb2
+      position: {x: -3.36236572, y: -1.00289917, z: 2.83977127}
+      rotation: {x: -.024530828, y: .081993334, z: -8.83050961e-05, w: .996330976}
+      scale: {x: .999999821, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandThumb3
+      position: {x: -4.50180054, y: -1.3445015, z: 2.17826843}
+      rotation: {x: .0535256267, y: -.0453496277, z: .082629256, w: .99410814}
+      scale: {x: 1.00000024, y: 1.00000036, z: 1.00000024}
+      transformModified: 1
+    - name: Carl:LeftHandThumb4
+      position: {x: -2.30000305, y: 0, z: 1.48989868}
+      rotation: {x: 9.31322575e-09, y: 6.93889258e-17, z: 7.45057882e-09, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandMiddle1
+      position: {x: -10.4638977, y: .614761353, z: .429787159}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:LeftHandMiddle2
+      position: {x: -5.79209137, y: 3.81469727e-06, z: 9.53674316e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: Carl:LeftHandMiddle3
+      position: {x: -3.71317291, y: -1.90734863e-06, z: -7.15255737e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Carl:LeftHandMiddle4
+      position: {x: -1.8999939, y: 0, z: -9.53674316e-07}
+      rotation: {x: 1.11758727e-08, y: -3.72528941e-09, z: 4.16333601e-17, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandIndex1
+      position: {x: -10.3945236, y: .61476326, z: 2.70549345}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandIndex2
+      position: {x: -5.54928589, y: 0, z: -4.76837158e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandIndex3
+      position: {x: -3.39112091, y: -3.81469727e-06, z: 4.76837158e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:LeftHandIndex4
+      position: {x: -1.80000305, y: -1.90734863e-06, z: 0}
+      rotation: {x: -5.58793545e-09, y: 1.11758709e-08, z: 1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandPinky1
+      position: {x: -10.0129776, y: -.0783481598, z: -3.96714067}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandPinky2
+      position: {x: -3.6762619, y: 0, z: -2.38418579e-06}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:LeftHandPinky3
+      position: {x: -2.81134033, y: 0, z: -4.76837158e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .99999994, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Carl:LeftHandPinky4
+      position: {x: -2.49999237, y: -7.62939453e-06, z: 4.76837158e-07}
+      rotation: {x: -4.65661287e-10, y: -6.05359674e-09, z: -2.81892565e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:LeftHandRing1
+      position: {x: -10.3251495, y: .321130753, z: -1.87554216}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:LeftHandRing2
+      position: {x: -5.44523621, y: 0, z: -2.38418579e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: Carl:LeftHandRing3
+      position: {x: -3.71318817, y: 5.7220459e-06, z: 2.38418579e-07}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Carl:LeftHandRing4
+      position: {x: -1.6000061, y: -3.81469727e-06, z: 2.38418579e-07}
+      rotation: {x: -5.58793545e-09, y: 7.45057882e-09, z: 4.16333535e-17, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Carl:Neck
+      position: {x: -0, y: 13.8774414, z: -4.35418749}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Carl:Neck1
+      position: {x: 9.53674316e-07, y: 4.34002686, z: .926891327}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: Carl:Head
+      position: {x: -1.90734863e-06, y: 4.02661133, z: .858520508}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999702, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:HeadTop_End
+      position: {x: 4.76837158e-07, y: 21.1079712, z: .123128891}
+      rotation: {x: 1.31459513e-18, y: -7.05767889e-10, z: 1.86264515e-09, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: Carl:LeftEye
+      position: {x: -3.24007225, y: 7.42709351, z: 9.9066782}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightEye
+      position: {x: 3.24034357, y: 7.42706299, z: 9.9066782}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:LeftCheek
+      position: {x: -3.84250069, y: 3.73640442, z: 11.2814636}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightCheek
+      position: {x: 3.84250021, y: 3.73686218, z: 11.2814493}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:LeftNostril
+      position: {x: -1.35408497, y: 2.83810425, z: 13.0276804}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:Jaw
+      position: {x: 4.76837158e-07, y: .101806641, z: 5.37011337}
+      rotation: {x: -.00644458458, y: 0, z: -0, w: .999979258}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: Carl:JawEND
+      position: {x: -9.53674316e-07, y: -1.13690186, z: 7.91845036}
+      rotation: {x: 4.65661176e-10, y: -5.52972779e-10, z: 2.57497964e-19, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Carl:TongueBack
+      position: {x: -4.76837158e-07, y: -.169891357, z: 4.81717205}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:LeftLipCorner
+      position: {x: -3.14100075, y: .361022949, z: 6.26599979}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Carl:LeftLipLower
+      position: {x: -.983096123, y: -.691467285, z: 7.7034359}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Carl:RightLipLower
+      position: {x: .983095646, y: -.691345215, z: 7.70338821}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Carl:TongueTip
+      position: {x: -0, y: -.583450317, z: 6.60985565}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Carl:RightLipCorner
+      position: {x: 3.14099932, y: .361160278, z: 6.26600075}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.00000012, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: Carl:LeftLipUpper
+      position: {x: -1.05577087, y: .53666687, z: 13.6110764}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightLipUpper
+      position: {x: 1.05577135, y: .536453247, z: 13.6110458}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:LeftEyelidLower
+      position: {x: -3.06947136, y: 6.59341431, z: 11.5718918}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:LeftInnerBrow
+      position: {x: -1.62675095, y: 8.0955658, z: 13.0700054}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:LeftIOuterBrow
+      position: {x: -4.47080326, y: 8.25535583, z: 11.7659426}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:LeftEyelidUpper
+      position: {x: -3.06947136, y: 7.87182617, z: 11.8064423}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightNostril
+      position: {x: 1.3540802, y: 2.83787537, z: 13.027648}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightEyelidLower
+      position: {x: 3.06947088, y: 6.59368896, z: 11.5718565}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightInnerBrow
+      position: {x: 1.62675095, y: 8.09584045, z: 13.0699949}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightIOuterBrow
+      position: {x: 4.47080088, y: 8.25511169, z: 11.7659674}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: Carl:RightEyelidUpper
+      position: {x: 3.06947088, y: 7.871521, z: 11.8064213}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 

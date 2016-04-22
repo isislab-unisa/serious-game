@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &180214
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 478026}
+  - 114: {fileID: 11493936}
+  m_Layer: 0
+  m_Name: MessageManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &478026
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180214}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11493936
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15be7aecb6795f047a4e134588c932aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Items:
+  - Key: LobbyWelcome
+    Items:
+    - Language: 0
+      String: Benvenuto nella Lobby
+  - Key: CoinJoypadCollect
+    Items:
+    - Language: 0
+      String: Premi il tasto A per raccogliere la moneta
+  - Key: StrigileJoypadCollect
+    Items:
+    - Language: 0
+      String: Premi il tasto A per raccogliere lo strigile
+  - Key: CoinQuadranteCollected
+    Items:
+    - Language: 0
+      String: Complimenti hai raccolto un <b>quadrante</b>!
+  - Key: CoinAsseCollected
+    Items:
+    - Language: 0
+      String: Complimenti hai raccolto un <b>asse</b>!
+  - Key: StrigileCollected
+    Items:
+    - Language: 0
+      String: Complimenti hai raccolto uno <b>strigile</b>!
+  - Key: LobbyWaitForOthers
+    Items:
+    - Language: 0
+      String: "C'\xE8 bisogno di tutti i giocatori per colorare l'area"
+  - Key: GameIntro
+    Items:
+    - Language: 0
+      String: "Questo gioco \xE8 stato realizzato dal laboratorio ISISLab del Dipartimento
+        di Informatica dell'Universit\xE0 di Salerno nell'ambito del progetto Databenc."
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: Items.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[9].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[8].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[17].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[16].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[15].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[14].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[13].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[12].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[11].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[10].Items.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[12].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[12].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[7].Key
+      value: GameIntro
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[7].Items.Array.data[0].String
+      value: "Questo gioco \xE8 stato realizzato dal laboratorio ISISLab del Dipartimento
+        di Informatica dell'Universit\xE0 di Salerno nell'ambito del progetto Databenc."
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[8].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[8].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[9].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[9].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[10].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[10].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[11].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[11].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[2].Key
+      value: StrigileJoypadCollect
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[2].Items.Array.data[0].String
+      value: Premi il tasto A per raccogliere lo strigile
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[3].Key
+      value: CoinQuadranteCollected
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[3].Items.Array.data[0].String
+      value: Complimenti hai raccolto un <b>quadrante</b>!
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[4].Key
+      value: CoinAsseCollected
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[4].Items.Array.data[0].String
+      value: Complimenti hai raccolto un <b>asse</b>!
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[5].Key
+      value: StrigileCollected
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[5].Items.Array.data[0].String
+      value: Complimenti hai raccolto uno <b>strigile</b>!
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[6].Key
+      value: LobbyWaitForOthers
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[6].Items.Array.data[0].String
+      value: "C'\xE8 bisogno di tutti i giocatori per colorare l'area"
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[13].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[13].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[14].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[14].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[15].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[15].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[16].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[16].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[17].Key
+      value: OpenCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Items.Array.data[17].Items.Array.data[0].String
+      value: Premi il tasto A per aprire l'armadio
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 180214}
+  m_IsPrefabParent: 1
